@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "619699b44060113d6c5f9944"
+  },
+  "title": "google",
+  "code": "GOOGL",
+  "type": "stock",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61977a2ef7969e02d09fb81f"
+  },
+  "title": "Elrond",
+  "code": "EGLD",
+  "type": "crypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61977a40f7969e02d09fb821"
+  },
+  "title": "Bitcoin",
+  "code": "BTC",
+  "type": "crypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61977a7ff7969e02d09fb829"
+  },
+  "title": "sdaf",
+  "code": "sadf",
+  "type": "crypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61977ad0f7969e02d09fb82e"
+  },
+  "title": "sadgf",
+  "code": "0fghj",
+  "type": "stock",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61977b70f7969e02d09fb839"
+  },
+  "title": "sadf",
+  "code": "sadf",
+  "type": "stock",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61977b73f7969e02d09fb83b"
+  },
+  "title": "sadf",
+  "code": "sadf",
+  "type": "stock",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61977c4cf7969e02d09fb843"
+  },
+  "title": "asfdg",
+  "code": "sdagdfsg",
+  "type": "stock",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61977cc9f7969e02d09fb845"
+  },
+  "title": "asfdg",
+  "code": "sdagdfsg",
+  "type": "crypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61977f3cf7969e02d09fb863"
+  },
+  "title": "nee",
+  "code": "NEE",
+  "type": "stock",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61977f46f7969e02d09fb865"
+  },
+  "title": "nee",
+  "code": "sfagdafg",
+  "type": "stock",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a9d321549ac0920f9a3ff"
+  },
+  "title": "AVAX",
+  "code": "AVAX",
+  "type": "crypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619aa29b1549ac0920f9a43a"
+  },
+  "title": "asg",
+  "code": "sag",
+  "type": "crypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bc9ad4c856f0a94be9509"
+  },
+  "title": "asdf",
+  "code": "sadfsdaf",
+  "type": "crypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bc9c34c856f0a94be950b"
+  },
+  "title": "BinanceBNB",
+  "code": "BNB",
+  "type": "crypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61acf27b22a8951324dc39f9"
+  },
+  "title": "Litecoin",
+  "code": "LTC",
+  "type": "crypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61acf29022a8951324dc39fb"
+  },
+  "title": "Microsoft",
+  "code": "MSFT",
+  "type": "crypto",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61bf6a9c89ffcb3564168155"
+  },
+  "title": "Solana",
+  "code": "SOL",
+  "type": "crypto",
+  "__v": 0
+}]

@@ -1,0 +1,480 @@
+[{
+  "_id": {
+    "$oid": "6196be0ab4518d29fc8000c9"
+  },
+  "email": "rares.matei1711@gmail.com",
+  "password": "$2a$12$3IDD8jUnf.Xb0/j9U2djS.cCFcSJhhfYqJPeIY.HmBq6ssYdiVtjG",
+  "name": "Rares Matei",
+  "accountBalance": 0,
+  "profit": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6196be50b4518d29fc8000d1"
+  },
+  "email": "rbj@gmail.com",
+  "password": "$2a$12$y8i8947/0sFxnzECGCNkceePSCDZNjIxi718I2u5gHwWe5t31SkaC",
+  "name": "robi beji",
+  "accountBalance": 0,
+  "profit": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6196be71b4518d29fc8000d8"
+  },
+  "email": "ligius.sorel@gmail.com",
+  "password": "$2a$12$ZMq9uK3zSV4pgnAdEwLEfuBdmZFUp2ytcwFAV8GA3zuszQkH.Rihq",
+  "name": "ligius matesoni",
+  "accountBalance": 0,
+  "profit": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6196be93b4518d29fc8000df"
+  },
+  "email": "reme@gmail.com",
+  "password": "$2a$12$Ltq9sAXniL1s5rezAuh5GeHrX7Q5i4S.ls/5O8ikqmxK2RHpNgwMe",
+  "name": "dragos remetea",
+  "accountBalance": 0,
+  "profit": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619926f365d5a805c40c22e6"
+  },
+  "email": "rares@gmail.com",
+  "password": "$2a$12$gi2gry7THLecBaSMHaJYvu3LzYp5N1JjuK8Uj1AebpAnYmeGLRnou",
+  "name": "r m",
+  "accountBalance": 12,
+  "profit": 0,
+  "instrumentsOwned": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61994ab30ccebb1f8c513fcb"
+  },
+  "email": "raresm@rares.com",
+  "password": "$2a$12$.o5E5vZ7lILSgK7IZJQB0u3Da0aAX4K2/h/PwASKdIyVPt2BTpnx.",
+  "name": "rares m",
+  "accountBalance": 11157.17,
+  "profit": 0,
+  "instrumentsOwned": [
+    {
+      "_id": {
+        "$oid": "6199500331b7be20143d490b"
+      },
+      "name": "tsla",
+      "quantity": 124
+    },
+    {
+      "_id": {
+        "$oid": "6199502a31b7be20143d4915"
+      },
+      "name": "GOOG",
+      "quantity": 100
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61994fc931b7be20143d4904"
+  },
+  "email": "rar@gmail.com",
+  "password": "$2a$12$rS9C01HuTPvdYe751491P.JlheOHgP./SvvUnLV6/j/KmsgwUrf8e",
+  "name": "rares m",
+  "accountBalance": 3001736,
+  "profit": 0,
+  "instrumentsOwned": [
+    {
+      "_id": {
+        "$oid": "61996b191d3b9f31b8e4258e"
+      },
+      "name": "TSLA",
+      "quantity": 201
+    },
+    {
+      "_id": {
+        "$oid": "619a352eb9de6b2c3051865d"
+      },
+      "name": "GOOGL",
+      "quantity": 12
+    },
+    {
+      "_id": {
+        "$oid": "619a4085b9de6b2c3051869f"
+      },
+      "name": "EGLD",
+      "quantity": 5
+    },
+    {
+      "_id": {
+        "$oid": "619a5fb5b9de6b2c30518738"
+      },
+      "name": "BTC",
+      "quantity": null
+    },
+    {
+      "_id": {
+        "$oid": "619a679c5e8f720ca0766db5"
+      },
+      "name": "NEE",
+      "quantity": 4
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619a9c601549ac0920f9a3dc"
+  },
+  "email": "andrei@gmail.com",
+  "password": "$2a$12$hil1tWDRJ9V48MSU2PVxyu23oPbF6J.Khc6aR9E1t.X73y4nWTP2O",
+  "name": "andrei vasile",
+  "accountBalance": 28944.81,
+  "profit": 0,
+  "instrumentsOwned": [
+    {
+      "_id": {
+        "$oid": "619a9c931549ac0920f9a3ed"
+      },
+      "name": "EGLD",
+      "quantity": 5
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619aa2761549ac0920f9a430"
+  },
+  "email": "user@gmail.com",
+  "password": "$2a$12$cg1SlHGjSdoYoKsbO35qyeAxlk8xwIrMKracnb.xYUvg/EL6w/I5O",
+  "name": "user1 user2",
+  "accountBalance": 3915.37,
+  "profit": 0,
+  "instrumentsOwned": [
+    {
+      "_id": {
+        "$oid": "619aa3551549ac0920f9a44f"
+      },
+      "name": "AVAX",
+      "quantity": 5
+    },
+    {
+      "_id": {
+        "$oid": "619aa4881549ac0920f9a471"
+      },
+      "name": "NEE",
+      "quantity": null
+    },
+    {
+      "_id": {
+        "$oid": "619fdc9600f0320bf81dfa3b"
+      },
+      "name": "EGLD",
+      "quantity": 2,
+      "buyPrice": 1
+    },
+    {
+      "_id": {
+        "$oid": "619fde08eeed310a2081de39"
+      },
+      "name": "X",
+      "quantity": 8,
+      "buyPrice": 100000
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619b793e8cabf21c887e8729"
+  },
+  "email": "andreip@gmail.com",
+  "password": "$2a$12$2JrV.az6xQqH68QYtiGNuOgq2S.Jhhudl8uZcS3jytuxMpvCdjYce",
+  "name": "andrei popescu",
+  "accountBalance": 25734.375,
+  "profit": 0,
+  "instrumentsOwned": [
+    {
+      "_id": {
+        "$oid": "619bc7704c856f0a94be948d"
+      },
+      "name": "SOL",
+      "quantity": 16
+    },
+    {
+      "_id": {
+        "$oid": "619bc8bf4c856f0a94be94cf"
+      },
+      "name": "EGLD",
+      "quantity": 10
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "619bc9fc4c856f0a94be9515"
+  },
+  "email": "horia@gmail.com",
+  "password": "$2a$12$U.xUp26IXUXbDRH2i2r8Pedy/OCaO3xsyjBMzIBF5EuRamrPUpag2",
+  "name": "horia pavel",
+  "accountBalance": 3400,
+  "profit": 0,
+  "instrumentsOwned": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a0aa75ae6fef3340a2bcd5"
+  },
+  "email": "stefan@gmail.com",
+  "password": "$2a$12$bKXGQlv1YIJWJUp5DVY4feYPxIeanAne/6015AtyDxUo0UHWt3/RO",
+  "name": "stefan ionescu",
+  "accountBalance": 14438,
+  "profit": 0,
+  "instrumentsOwned": [
+    {
+      "_id": {
+        "$oid": "61a0af11f7802110ac9dcf14"
+      },
+      "name": "NEE",
+      "quantity": 5
+    },
+    {
+      "_id": {
+        "$oid": "61a0b6b299239826dc2d640d"
+      },
+      "name": "GOOGL",
+      "quantity": 1
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a0afe00612be16a0a24f70"
+  },
+  "instrumentsOwned": [
+    {
+      "_id": {
+        "$oid": "61a0b7ac81003a387c1421e0"
+      },
+      "name": "GOOGL",
+      "quantity": 1,
+      "assetType": "stock"
+    },
+    {
+      "_id": {
+        "$oid": "61a0b7c281003a387c1421e4"
+      },
+      "name": "BTC",
+      "quantity": 2,
+      "assetType": "stock"
+    }
+  ],
+  "email": "test@gmail.com",
+  "password": "$2a$12$E6T6a9GZa8lePczkcDQkKe0J9nvPJH/LhN9gv9MECUeCRJmvaGxdS",
+  "name": "test user",
+  "accountBalance": 2162.2099999999996,
+  "profit": 0,
+  "__v": 0,
+  "instrumentsSold": [
+    {
+      "_id": {
+        "$oid": "61a0ba7481003a387c142249"
+      },
+      "name": "EGLD",
+      "quantity": 2,
+      "assetType": "crypto"
+    },
+    {
+      "_id": {
+        "$oid": "61a0b9e581003a387c142226"
+      },
+      "name": "NEE",
+      "quantity": 1,
+      "assetType": "stock"
+    },
+    {
+      "_id": {
+        "$oid": "61a0b7d581003a387c1421ed"
+      },
+      "name": "SOL",
+      "quantity": 3,
+      "assetType": "crypto"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61a0bf62319d4a334ca2d20e"
+  },
+  "email": "rm@gmail.com",
+  "password": "$2a$12$UvBEQJitZ5Y6OMJWLHKyN.L./3sToPfGFahtCsFdpJo86eTKSMEIq",
+  "name": "rares m",
+  "accountBalance": 47.250000000000966,
+  "profit": 0,
+  "instrumentsOwned": [],
+  "instrumentsSold": [
+    {
+      "_id": {
+        "$oid": "61a0c08d319d4a334ca2d219"
+      },
+      "name": "GOOGL",
+      "quantity": 1,
+      "assetType": "stock"
+    },
+    {
+      "_id": {
+        "$oid": "61a0c27e319d4a334ca2d22f"
+      },
+      "name": "GOOGL",
+      "quantity": 1,
+      "assetType": "stock"
+    },
+    {
+      "_id": {
+        "$oid": "61a0c2bb319d4a334ca2d241"
+      },
+      "name": "EGLD",
+      "quantity": 1,
+      "assetType": "crypto"
+    },
+    {
+      "_id": {
+        "$oid": "61a0c2c8319d4a334ca2d251"
+      },
+      "name": "EGLD",
+      "quantity": 1,
+      "assetType": "crypto"
+    },
+    {
+      "_id": {
+        "$oid": "61a0c367c32e642294cf6dd5"
+      },
+      "name": "GOOGL",
+      "assetType": "stock",
+      "sellPrice": 2922.4
+    },
+    {
+      "_id": {
+        "$oid": "61a0c440c32e642294cf6dfb"
+      },
+      "name": "EGLD",
+      "assetType": "crypto",
+      "sellPrice": 396.97
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a0c46fc32e642294cf6e0a"
+  },
+  "email": "rarm@gmail.com",
+  "password": "$2a$12$paC6mQt7r/33bSrlegItRu6scmHU2UF57cvLpfH4VOH95Zjwd.Z6u",
+  "name": "rares m",
+  "accountBalance": 462557.69,
+  "profit": 0,
+  "instrumentsOwned": [
+    {
+      "_id": {
+        "$oid": "61a0c85bc32e642294cf6e91"
+      },
+      "name": "BTC",
+      "quantity": 1,
+      "assetType": "crypto"
+    }
+  ],
+  "instrumentsSold": [
+    {
+      "_id": {
+        "$oid": "61a0c4b0c32e642294cf6e1b"
+      },
+      "name": "GOOGL",
+      "assetType": "stock",
+      "sellPrice": 2922.4
+    },
+    {
+      "_id": {
+        "$oid": "61a0c585c32e642294cf6e38"
+      },
+      "name": "GOOGL",
+      "assetType": "stock",
+      "sellPrice": 8767.2
+    },
+    {
+      "_id": {
+        "$oid": "61a0c5bac32e642294cf6e4b"
+      },
+      "name": "EGLD",
+      "assetType": "crypto",
+      "sellPrice": 1203.3000000000002
+    },
+    {
+      "_id": {
+        "$oid": "61a0c841c32e642294cf6e80"
+      },
+      "name": "EGLD",
+      "assetType": "crypto",
+      "sellPrice": 392.22
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61a0c879c32e642294cf6e9d"
+  },
+  "email": "djt@gmail.com",
+  "password": "$2a$12$er4QJdjJU2gzae51hs/6huiCbOZrPAm.saWIh1GeZemlrjqBufuCO",
+  "name": "rares m",
+  "accountBalance": 27021.43,
+  "profit": 0,
+  "instrumentsOwned": [
+    {
+      "_id": {
+        "$oid": "61acf22322a8951324dc39dc"
+      },
+      "name": "GOOGL",
+      "quantity": 1,
+      "assetType": "stock"
+    },
+    {
+      "_id": {
+        "$oid": "61bf6ad889ffcb356416816e"
+      },
+      "name": "EGLD",
+      "quantity": 4,
+      "assetType": "crypto"
+    }
+  ],
+  "instrumentsSold": [
+    {
+      "_id": {
+        "$oid": "61a0c8cfc32e642294cf6ec0"
+      },
+      "name": "GOOGL",
+      "assetType": "stock",
+      "sellPrice": 8767.2
+    },
+    {
+      "_id": {
+        "$oid": "61a0c8e8c32e642294cf6ed3"
+      },
+      "name": "SOL",
+      "assetType": "crypto",
+      "sellPrice": 1498.88
+    },
+    {
+      "_id": {
+        "$oid": "61a9ed4d9b592f39ec2d2ca2"
+      },
+      "name": "GOOGL",
+      "assetType": "stock",
+      "sellPrice": 8577.960000000001
+    },
+    {
+      "_id": {
+        "$oid": "61acf23422a8951324dc39e8"
+      },
+      "name": "NEE",
+      "assetType": "stock",
+      "sellPrice": 440.15
+    }
+  ],
+  "__v": 0
+}]

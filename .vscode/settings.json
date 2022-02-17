@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 17,
+    "debug.console.fontSize": 17,
+    "terminal.integrated.fontSize": 17,
+    "markdown.preview.fontSize": 17,
+    "screencastMode.fontSize": 57,
+    "scm.inputFontSize": 17,
+    "mssql.resultsFontSize": 17
+}
